@@ -1,0 +1,1 @@
+exch_code,commodity,future_year,future_month,strike_price,trade_date,spread_flag,record_id,trade_price,buy_cti1,sell_cti1,net_cti1,buy_cti2,sell_cti2,net_cti2,buy_cti3,sell_cti3,net_cti3,buy_cti4,sell_cti4,net_cti4,total_cti,bracket,put_call,eof
